@@ -1,0 +1,1 @@
+export const booksLoaded = newBooks => ({type: 'BOOKS_LODADED', payload: newBooks});
